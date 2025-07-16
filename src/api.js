@@ -12,7 +12,7 @@
 import axios from 'axios';
 
 // Set base URL via environment variable, fallback to proxy
-const BASE = process.env.REACT_APP_API_URL || 'https://deskbook.onrender.com';
+const BASE = process.env.REACT_APP_API_URL || '';
 
 // If you prefer using absolute paths instead of proxy, uncomment below:
 // const BASE = process.env.REACT_APP_API_URL || 'http://localhost:6000';
