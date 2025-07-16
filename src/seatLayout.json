@@ -1,0 +1,5 @@
+[
+  { "id": "D1", "type": "desk", "row": 1, "col": 1 },
+  { "id": "D2", "type": "desk", "row": 1, "col": 2 },
+  { "id": "R1", "type": "room", "row": 2, "col": 1, "colSpan": 2 }
+]
