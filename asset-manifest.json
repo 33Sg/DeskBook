@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/DeskBook/static/css/main.a8f9b722.css",
+    "main.js": "/DeskBook/static/js/main.c971a53a.js",
+    "static/media/bg.jpg": "/DeskBook/static/media/bg.f94378dcfd0425334f02.jpg",
+    "index.html": "/DeskBook/index.html",
+    "main.a8f9b722.css.map": "/DeskBook/static/css/main.a8f9b722.css.map",
+    "main.c971a53a.js.map": "/DeskBook/static/js/main.c971a53a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8f9b722.css",
+    "static/js/main.c971a53a.js"
+  ]
+}
