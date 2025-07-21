@@ -95,7 +95,7 @@ const authRoutes = require('./routes/auth');
 const { authenticate, authorizeAdmin } = require('./middleware/authMiddleware');
 
 const app = express();
-app.use(cors({origin: 'http://localhost:3000',
+app.use(cors({origin: 'https://deskbook-frontend.onrender.com',
   credentials: true}));
 app.use(express.json());
 
